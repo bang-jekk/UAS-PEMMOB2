@@ -7,9 +7,10 @@ Aplikasi ini terhubung dengan **REST API (PHP + MySQL)** dan memiliki fitur **Lo
 
 ## 🖼️ Tampilan Aplikasi
 
-### 🎥 Video Demo
-**0. Video Layar (Landscape)**  
-<video src="0-VideoDemo.mkv" controls width="600"></video>
+### 🎬 Demo Video Aplikasi
+
+[![Demo Video UAS Pemmob 2](https://img.youtube.com/vi/vhOdUVQ4ejU/0.jpg)](https://youtu.be/vhOdUVQ4ejU)
+
 
 ---
 
