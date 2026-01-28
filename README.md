@@ -19,22 +19,22 @@ Aplikasi ini terhubung dengan **REST API (PHP + MySQL)** dan memiliki fitur **Lo
 <img src="1-home.PNG" width="200"/>
 
 **2. Register**  
-<img src="screenshots/2-register.png" width="200"/>
+<img src="2-register.PNG" width="200"/>
 
 **3. Input Data Informasi**  
-<img src="screenshots/3-InputDataInformasi.png" width="200"/>
+<img src="3-InputDataInformasi.PNG" width="200"/>
 
 **4. List & Searching**  
-<img src="screenshots/4-ListSearching.png" width="200"/>
+<img src="4-ListSearching.PNG" width="200"/>
 
 **5. Detail Informasi**  
-<img src="screenshots/5-DetailInformasi.png" width="200"/>
+<img src="5-DetailInformasi.PNG" width="200"/>
 
 **6. Button Navigation**  
-<img src="screenshots/6-ButtonNavigation.png" width="200"/>
+<img src="6-ButtonNavigation.PNG" width="200"/>
 
 **7. About (NIM & Nama)**  
-<img src="screenshots/7-AboutNIMNama.png" width="200"/>
+<img src="7-AboutNIMNama.PNG" width="200"/>
 
 ---
 
