@@ -15,26 +15,20 @@ Aplikasi ini terhubung dengan **REST API (PHP + MySQL)** dan memiliki fitur **Lo
 
 ### 📸 Screenshot Aplikasi
 
-**1. Home**  
-<img src="1-home.PNG" width="200"/>
+## 📸 Screenshot Aplikasi
 
-**2. Register**  
-<img src="2-register.PNG" width="200"/>
+<p align="center">
+  <img src="1-home.PNG" width="200"/>
+  <img src="2-register.PNG" width="200"/>
+  <img src="3-InputDataInformasi.PNG" width="200"/>
+  <img src="4-ListSearching.PNG" width="200"/>
+</p>
 
-**3. Input Data Informasi**  
-<img src="3-InputDataInformasi.PNG" width="200"/>
-
-**4. List & Searching**  
-<img src="4-ListSearching.PNG" width="200"/>
-
-**5. Detail Informasi**  
-<img src="5-DetailInformasi.PNG" width="200"/>
-
-**6. Button Navigation**  
-<img src="6-ButtonNavigation.PNG" width="200"/>
-
-**7. About (NIM & Nama)**  
-<img src="7-AboutNIMNama.PNG" width="200"/>
+<p align="center">
+  <img src="5-DetailInformasi.PNG" width="200"/>
+  <img src="6-ButtonNavigation.PNG" width="200"/>
+  <img src="7-AboutNIMNama.PNG" width="200"/>
+</p>
 
 ---
 
